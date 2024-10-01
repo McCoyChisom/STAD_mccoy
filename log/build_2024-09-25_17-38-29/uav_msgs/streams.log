@@ -1,0 +1,20 @@
+[0.036s] Invoking command in '/home/mccoychisom/STAD_mccoychisom/build/uav_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/mccoychisom/STAD_mccoychisom/build/uav_msgs -- -j5 -l5
+[0.461s] Invoked command in '/home/mccoychisom/STAD_mccoychisom/build/uav_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/mccoychisom/STAD_mccoychisom/build/uav_msgs -- -j5 -l5
+[0.513s] Invoking command in '/home/mccoychisom/STAD_mccoychisom/build/uav_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/mccoychisom/STAD_mccoychisom/build/uav_msgs
+[0.521s] -- Install configuration: ""
+[0.524s] -- Up-to-date: /home/mccoychisom/STAD_mccoychisom/install/uav_msgs/share/ament_index/resource_index/package_run_dependencies/uav_msgs
+[0.524s] -- Up-to-date: /home/mccoychisom/STAD_mccoychisom/install/uav_msgs/share/ament_index/resource_index/parent_prefix_path/uav_msgs
+[0.524s] -- Up-to-date: /home/mccoychisom/STAD_mccoychisom/install/uav_msgs/share/uav_msgs/environment/ament_prefix_path.sh
+[0.524s] -- Up-to-date: /home/mccoychisom/STAD_mccoychisom/install/uav_msgs/share/uav_msgs/environment/ament_prefix_path.dsv
+[0.524s] -- Up-to-date: /home/mccoychisom/STAD_mccoychisom/install/uav_msgs/share/uav_msgs/environment/path.sh
+[0.524s] -- Up-to-date: /home/mccoychisom/STAD_mccoychisom/install/uav_msgs/share/uav_msgs/environment/path.dsv
+[0.524s] -- Up-to-date: /home/mccoychisom/STAD_mccoychisom/install/uav_msgs/share/uav_msgs/local_setup.bash
+[0.524s] -- Up-to-date: /home/mccoychisom/STAD_mccoychisom/install/uav_msgs/share/uav_msgs/local_setup.sh
+[0.524s] -- Up-to-date: /home/mccoychisom/STAD_mccoychisom/install/uav_msgs/share/uav_msgs/local_setup.zsh
+[0.525s] -- Up-to-date: /home/mccoychisom/STAD_mccoychisom/install/uav_msgs/share/uav_msgs/local_setup.dsv
+[0.525s] -- Up-to-date: /home/mccoychisom/STAD_mccoychisom/install/uav_msgs/share/uav_msgs/package.dsv
+[0.525s] -- Up-to-date: /home/mccoychisom/STAD_mccoychisom/install/uav_msgs/share/ament_index/resource_index/packages/uav_msgs
+[0.525s] -- Up-to-date: /home/mccoychisom/STAD_mccoychisom/install/uav_msgs/share/uav_msgs/cmake/uav_msgsConfig.cmake
+[0.525s] -- Up-to-date: /home/mccoychisom/STAD_mccoychisom/install/uav_msgs/share/uav_msgs/cmake/uav_msgsConfig-version.cmake
+[0.525s] -- Up-to-date: /home/mccoychisom/STAD_mccoychisom/install/uav_msgs/share/uav_msgs/package.xml
+[0.530s] Invoked command in '/home/mccoychisom/STAD_mccoychisom/build/uav_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/mccoychisom/STAD_mccoychisom/build/uav_msgs

@@ -1,0 +1,9 @@
+/home/mccoychisom/STAD_mccoychisom/build/uav_cpp/CMakeFiles/uninstall.dir
+/home/mccoychisom/STAD_mccoychisom/build/uav_cpp/CMakeFiles/uav_cpp_uninstall.dir
+/home/mccoychisom/STAD_mccoychisom/build/uav_cpp/CMakeFiles/test.dir
+/home/mccoychisom/STAD_mccoychisom/build/uav_cpp/CMakeFiles/edit_cache.dir
+/home/mccoychisom/STAD_mccoychisom/build/uav_cpp/CMakeFiles/rebuild_cache.dir
+/home/mccoychisom/STAD_mccoychisom/build/uav_cpp/CMakeFiles/list_install_components.dir
+/home/mccoychisom/STAD_mccoychisom/build/uav_cpp/CMakeFiles/install.dir
+/home/mccoychisom/STAD_mccoychisom/build/uav_cpp/CMakeFiles/install/local.dir
+/home/mccoychisom/STAD_mccoychisom/build/uav_cpp/CMakeFiles/install/strip.dir

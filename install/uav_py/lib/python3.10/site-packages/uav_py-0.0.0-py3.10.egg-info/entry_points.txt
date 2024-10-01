@@ -1,0 +1,7 @@
+[console_scripts]
+detection = uav_py.test_detection:main
+environment = uav_py.environment:main
+follow_me = uav_py.aruco_single_tracker:main
+stream = uav_py.video_stream:main
+vision_simulation = uav_py.vision_simulation:main
+

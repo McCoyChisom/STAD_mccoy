@@ -1,0 +1,28 @@
+[1.001s] Invoking command in '/home/mccoychisom/STAD_mccoychisom/src/uav_py': PYTHONPATH=/home/mccoychisom/STAD_mccoychisom/build/uav_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mccoychisom/STAD_mccoychisom/install/uav_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/uav_py build --build-base /home/mccoychisom/STAD_mccoychisom/build/uav_py/build install --record /home/mccoychisom/STAD_mccoychisom/build/uav_py/install.log --single-version-externally-managed install_data
+[1.399s] running egg_info
+[1.399s] writing ../../build/uav_py/uav_py.egg-info/PKG-INFO
+[1.400s] writing dependency_links to ../../build/uav_py/uav_py.egg-info/dependency_links.txt
+[1.401s] writing entry points to ../../build/uav_py/uav_py.egg-info/entry_points.txt
+[1.401s] writing requirements to ../../build/uav_py/uav_py.egg-info/requires.txt
+[1.401s] writing top-level names to ../../build/uav_py/uav_py.egg-info/top_level.txt
+[1.404s] reading manifest file '../../build/uav_py/uav_py.egg-info/SOURCES.txt'
+[1.405s] writing manifest file '../../build/uav_py/uav_py.egg-info/SOURCES.txt'
+[1.406s] running build
+[1.406s] running build_py
+[1.407s] copying uav_py/aruco_single_tracker.py -> /home/mccoychisom/STAD_mccoychisom/build/uav_py/build/lib/uav_py
+[1.407s] running install
+[1.407s] running install_lib
+[1.408s] copying /home/mccoychisom/STAD_mccoychisom/build/uav_py/build/lib/uav_py/aruco_single_tracker.py -> /home/mccoychisom/STAD_mccoychisom/install/uav_py/lib/python3.10/site-packages/uav_py
+[1.408s] byte-compiling /home/mccoychisom/STAD_mccoychisom/install/uav_py/lib/python3.10/site-packages/uav_py/aruco_single_tracker.py to aruco_single_tracker.cpython-310.pyc
+[1.410s] running install_data
+[1.410s] running install_egg_info
+[1.412s] removing '/home/mccoychisom/STAD_mccoychisom/install/uav_py/lib/python3.10/site-packages/uav_py-0.0.0-py3.10.egg-info' (and everything under it)
+[1.412s] Copying ../../build/uav_py/uav_py.egg-info to /home/mccoychisom/STAD_mccoychisom/install/uav_py/lib/python3.10/site-packages/uav_py-0.0.0-py3.10.egg-info
+[1.413s] running install_scripts
+[1.440s] Installing detection script to /home/mccoychisom/STAD_mccoychisom/install/uav_py/lib/uav_py
+[1.440s] Installing environment script to /home/mccoychisom/STAD_mccoychisom/install/uav_py/lib/uav_py
+[1.440s] Installing follow_me script to /home/mccoychisom/STAD_mccoychisom/install/uav_py/lib/uav_py
+[1.441s] Installing stream script to /home/mccoychisom/STAD_mccoychisom/install/uav_py/lib/uav_py
+[1.441s] Installing vision_simulation script to /home/mccoychisom/STAD_mccoychisom/install/uav_py/lib/uav_py
+[1.441s] writing list of installed files to '/home/mccoychisom/STAD_mccoychisom/build/uav_py/install.log'
+[1.471s] Invoked command in '/home/mccoychisom/STAD_mccoychisom/src/uav_py' returned '0': PYTHONPATH=/home/mccoychisom/STAD_mccoychisom/build/uav_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mccoychisom/STAD_mccoychisom/install/uav_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/uav_py build --build-base /home/mccoychisom/STAD_mccoychisom/build/uav_py/build install --record /home/mccoychisom/STAD_mccoychisom/build/uav_py/install.log --single-version-externally-managed install_data
