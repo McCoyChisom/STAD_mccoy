@@ -6,7 +6,8 @@ package_name = 'uav_py'
 setup(
     name=package_name,
     version='0.0.0',
-    packages=find_packages(exclude=['test']),
+    packages=[package_name],                           #<!--- this can be changed, depending on you desire----->
+    #packages=find_packages(exclude=['test']),
     data_files=[
         ('share/ament_index/resource_index/packages',
             ['resource/' + package_name]),
@@ -21,11 +22,11 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-            'vision_simulation = uav_py.vision_simulation:main',
-            'stream = uav_py.video_stream:main',
-            'detection = uav_py.test_detection:main',
-            'environment = uav_py.environment:main',
-            'follow_me = uav_py.aruco_single_tracker:main',
+            'vision_simulation_node = uav_py.vision_simulation:main',
+            'video_stream_node = uav_py.video_stream:main',
+            'test_detection_node = uav_py.test_detection:main',
+            'environment_node = uav_py.environment:main',
+            'aruco_single_tracker_node = uav_py.aruco_single_tracker:main',
         ],
     },
 )
